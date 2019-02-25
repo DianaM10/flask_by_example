@@ -1,0 +1,10 @@
+*.pyc
+.idea/encodings.xml
+.idea/flask-by-example.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+env/
+
+
+
